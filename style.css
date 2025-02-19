@@ -1,0 +1,40 @@
+.container {
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    color: black;
+    border-bottom: 5px solid purple;
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding :20px;
+    margin: 30px;
+
+}
+
+
+.img {
+      width: 150px;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+      
+}
+
+.container-info {
+    padding-left: 50px;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
